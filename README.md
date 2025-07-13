@@ -1,2 +1,1 @@
-# settings
-settings
+# NixOS Desktop Conf File
