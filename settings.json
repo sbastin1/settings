@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "editor.formatOnSave": true,
+  "editor.fontWeight": "normal",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.lineNumbers": "relative",
+  "files.exclude": {
+    "**/.db": true
+  },
+  "editor.cursorStyle": "block",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.accessibilitySupport": "off",
+  "editor.cursorBlinking": "solid",
+  "editor.find.addExtraSpaceOnTop": false,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "onWindowChange",
+  "workbench.layoutControl.enabled": false,
+  "workbench.tree.enableStickyScroll": false,
+  "editor.scrollbar.horizontal": "visible",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontalScrollbarSize": 8,
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.renderWhitespace": "all",
+  "workbench.editor.showTabs": "none",
+  "workbench.activityBar.location": "hidden",
+  "workbench.editor.limit.value": 1,
+  "editor.tabSize": 2,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true
+}
